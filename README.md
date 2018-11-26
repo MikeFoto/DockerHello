@@ -1,13 +1,16 @@
 # Hello World application in docker
 
 ## Requisites
+As this is just a demo:
+* no workflow or integration with remote services is coded;
+* not discussed cluster access nor permissions (user/namespaces/....).
 
 ### Run
-* working minicube environment
+* working minikube environment access
 
 ### Build
 * python
-* docker running  
+* docker running
 
 
 # Python
